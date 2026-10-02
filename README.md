@@ -61,7 +61,6 @@ I don't just write code — I build **complete products from idea → architectu
 
 # 🧠 AI & Automation
 
-```text
 AI Applications
       ↓
 LLM Integration
